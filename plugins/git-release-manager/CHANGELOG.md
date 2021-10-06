@@ -1,5 +1,15 @@
 # @backstage/plugin-git-release-manager
 
+## 0.2.9
+
+### Patch Changes
+
+- 81a41ec249: Added a `name` key to all extensions in order to improve Analytics API metadata.
+- Updated dependencies
+  - @backstage/core-components@0.6.1
+  - @backstage/core-plugin-api@0.1.10
+  - @backstage/integration@0.6.7
+
 ## 0.2.8
 
 ### Patch Changes
