@@ -1314,12 +1314,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spotify/prettier-config@npm:^14.0.0":
-  version: 14.0.1
-  resolution: "@spotify/prettier-config@npm:14.0.1"
+"@spotify/prettier-config@npm:^14.1.0":
+  version: 14.1.0
+  resolution: "@spotify/prettier-config@npm:14.1.0"
   peerDependencies:
     prettier: 2.x
-  checksum: 07fb33ff3bb4678ab3bfe2f6f5da2cfb366de427c544e94178f5f8c75b3708282f7ea1a4344404e4ad1bbc5b38fccfde10795528cdfe7f61a8afed62076f8fe9
+  checksum: e3ab33524944bbf424b38ee1a22fae42442997f3288208b0933f1d9aa0db258540a188e7695be842c00cbda0321a335f74a171204f4b9d90a75187f303a92b17
   languageName: node
   linkType: hard
 
@@ -1788,7 +1788,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "backstage-microsite@workspace:."
   dependencies:
-    "@spotify/prettier-config": ^14.0.0
+    "@spotify/prettier-config": ^14.1.0
     docusaurus: ^2.0.0-alpha.70
     js-yaml: ^4.1.0
     prettier: ^2.6.2
